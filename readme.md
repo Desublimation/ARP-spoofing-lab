@@ -1,8 +1,8 @@
-\# ARP Spoofing and MITM Security Lab
+# ARP Spoofing and MITM Security Lab
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -22,7 +22,7 @@ session hijacking techniques in a controlled environment.
 
 
 
-\## Lab Environment
+## Lab Environment
 
 
 
@@ -54,7 +54,7 @@ additional NAT adapter.
 
 
 
-\## Project Roadmap
+## Project Roadmap
 
 
 
@@ -75,8 +75,7 @@ additional NAT adapter.
 \- \[ ] Explore TCP session security as an advanced extension
 
 
-
-\## Baseline ARP Analysis
+## Baseline ARP Analysis
 
 
 
